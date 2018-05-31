@@ -1,0 +1,41 @@
+2018-02-05 21:45:45.417 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-02-05 23:03:24.581 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-02-05 23:03:31.246 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-02-05 23:03:34.362 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(2) Obtener Wall'
+2018-02-05 23:03:37.052 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(3) Publicar Estado'
+2018-02-05 23:03:47.686 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(3) Publicar LINK'
+2018-02-05 23:11:15.411 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-02-05 23:11:20.214 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(3) Publicar Estado'
+2018-02-05 23:22:22.602 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-02-05 23:22:27.149 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(3) Publicar LINK'
+2018-02-05 23:28:29.760 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-02-05 23:28:33.718 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-02-05 23:28:35.444 [main] ERROR org.fbcmd4j.Main - (#200) Requires extended permission: read_stream
+2018-02-05 23:35:42.241 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-02-05 23:35:46.568 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(2) Obtener Wall'
+2018-02-05 23:35:47.548 [main] ERROR org.fbcmd4j.Main - (#11) This method is deprecated
+2018-05-29 15:00:28.695 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:00:32.995 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:00:34.878 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2018-05-29 15:01:12.724 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:04:39.176 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:04:42.023 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:04:43.949 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2018-05-29 15:05:08.832 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:05:11.534 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:05:14.571 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2018-05-29 15:05:52.822 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:05:55.676 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:05:58.274 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2018-05-29 15:07:26.915 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:07:29.861 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:07:31.565 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2018-05-29 15:10:04.959 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:22:28.303 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:22:34.246 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:22:35.938 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
+2018-05-29 15:23:21.170 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:23:48.495 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:39:06.165 [main] INFO  org.fbcmd4j.Main - Iniciando aplicación.
+2018-05-29 15:39:09.048 [main] INFO  org.fbcmd4j.Main - Opción seleccionada '(1) Obtener News Feed'
+2018-05-29 15:39:11.378 [main] ERROR org.fbcmd4j.Main - An active access token must be used to query information about the current user.
